@@ -1,5 +1,5 @@
 /*!
- * bespoke-mouse v0.0.0
+ * bespoke-mouse v0.1.0
  * https://github.com/kedarvaidya/bespoke-mouse
  *
  * Copyright 2014, Kedar Vaidya
