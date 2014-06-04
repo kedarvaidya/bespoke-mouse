@@ -1,0 +1,49 @@
+{
+  "name": "bespoke-mouse",
+  "version": "0.0.0",
+  "description": "Mouse support for Bespoke.js",
+  "homepage": "https://github.com/kedarvaidya/bespoke-mouse",
+  "bugs": "https://github.com/kedarvaidya/bespoke-mouse/issues",
+  "author": {
+    "name": "Kedar Vaidya",
+    "url": "https://github.com/kedarvaidya"
+  },
+  "main": "./dist/bespoke-mouse.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kedarvaidya/bespoke-mouse.git"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "peerDependencies": {
+    "bespoke": ">=0.3.0"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-jasmine": "~0.5.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-micro": "~0.1.0",
+    "bespoke": "~0.4.0",
+    "bespoke-keys": "~0.1.0",
+    "bespoke-touch": "~0.1.0",
+    "simulant": "~0.1.0",
+    "grunt-sync-pkg": "~0.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "bespoke.js-plugin"
+  ]
+}
